@@ -20,24 +20,5 @@
 
 # Запуск
 
-1 powershell (6+) - кроссплатформенный, работает на win, lin, mac. (5.1 and ниже) - только на windows.
-
-```powershell  
-cd 1inputOutputUtf8RutextConsole
-g++ main.cpp -o 1inputOutputUtf8RutextConsole.exe
-./1inputOutputUtf8RutextConsole.exe
-```
-
-2 bash
-
-```bash
-cd .\folder
-./program.exe
-```
-
-3 cmd
-
-```cmd
-cd folder
-program.exe
-```
+С директории файла, в PowerShell, Win11:
+py .\1_randomListPrint.py
