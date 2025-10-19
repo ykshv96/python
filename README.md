@@ -20,5 +20,10 @@
 
 # Запуск
 
+💡 Если Python не установлен: 
+sudo apt update && sudo apt install python3
+
 С директории файла, в PowerShell, Win11:
+```PowerShell
 py .\1_randomListPrint.py
+```
