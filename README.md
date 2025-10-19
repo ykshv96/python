@@ -21,7 +21,9 @@
 # Запуск
 
 💡 Если Python не установлен: 
+```PowerShell
 sudo apt update && sudo apt install python3
+```
 
 С директории файла, в PowerShell, Win11:
 ```PowerShell
