@@ -5,7 +5,7 @@
 ## Проекты
 
 ## 1_randomListPrint
-- **[1_randomListPrint](1_randomListPrint.py)** - 
+- **[1_randomListPrint/](1_randomListPrint.py)** - 
 описание файла:  Программа создает массив где количество указывает пользователь, заполняет его случайными числами от 1 до 100 и выводит на экран.
 
 ## 2_randomListFilterPrint
